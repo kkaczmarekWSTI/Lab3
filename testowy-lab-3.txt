@@ -1,1 +1,2 @@
 To jest tekst tekstowy.
+to jest zmiana w pliku
